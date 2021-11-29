@@ -3,7 +3,7 @@ cask "syncplay-japan7" do
   sha256 "f72c93cd29e90ac0e527e1403784e23ae078ca68d6c10240bb11c2b19831b848"
 
   url "https://hikari.butaishoujo.moe/b/f72c93cd/Syncplay_#{version}.dmg",
-    verified: "hikari.butaishoujo.moe/"
+      verified: "hikari.butaishoujo.moe/"
   name "Syncplay-Japan7"
   desc "Synchronises media players"
   homepage "https://syncplay.pl/"
