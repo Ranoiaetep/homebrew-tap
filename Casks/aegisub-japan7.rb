@@ -1,8 +1,8 @@
 cask "aegisub-japan7" do
-  version "9283-macos-42fbc93b9"
+  version "da162b1a"
   sha256 :no_check
 
-  url "https://hikari.butaishoujo.moe/b/da162b1a/Aegisub-3.2.2.dmg",
+  url "https://hikari.butaishoujo.moe/b/#{version}/Aegisub-3.2.2.dmg",
       verified: "hikari.butaishoujo.moe/"
   name "Aegisub-Japan7"
   desc "Create and modify subtitles"
