@@ -1,5 +1,5 @@
 cask "syncplay-japan7" do
-  version "b0966b65"
+  version "1016f088"
   sha256 :no_check
 
   url "https://hikari.butaishoujo.moe/b/#{version}/Syncplay_1.7.0.dmg",
