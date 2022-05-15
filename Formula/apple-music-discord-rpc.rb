@@ -3,11 +3,11 @@ class AppleMusicDiscordRpc < Formula
   homepage "https://github.com/NextFire/apple-music-discord-rpc"
   url "https://github.com/NextFire/apple-music-discord-rpc/archive/refs/tags/0.2.0.tar.gz"
   sha256 "9e0a5981c33c2b06a3b36ebf0b5b8ab7424f058aee348846328d2f4349a7bc9b"
-  head "https://github.com/NextFire/apple-music-discord-rpc.git", branch: "main"
   license "MIT"
+  head "https://github.com/NextFire/apple-music-discord-rpc.git", branch: "main"
 
   depends_on "deno"
-  
+
   def install
     bin.install "music-rpc.ts"
   end
