@@ -1,6 +1,6 @@
 cask "mpv-git" do
-  version "0.34.0-490-geba4ce5c2d"
-  sha256 "19ed510790a53a3bb52871fcc67782dd9d3f00a17bf5e489ca4abb4dae144ada"
+  version "0.34.0-492-gb2aaf7250f"
+  sha256 "440c3568b6b332bb11074299de9c3ac332cf4c6cf2a2132ea865112272026821"
 
   url "https://github.com/NextFire/mpv-macos-git-builds/releases/download/mpv-#{version}/mpv-#{version}.tar",
       verified: "github.com/NextFire/mpv-macos-git-builds/"
