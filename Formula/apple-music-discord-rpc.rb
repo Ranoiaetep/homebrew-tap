@@ -1,10 +1,10 @@
 class AppleMusicDiscordRpc < Formula
   desc "Discord Rich Presence client for the macOS Apple Music app"
-  homepage "https://github.com/NextFire/apple-music-discord-rpc"
-  url "https://github.com/NextFire/apple-music-discord-rpc/archive/refs/tags/0.5.0.tar.gz"
-  sha256 "ab1d5207623c17bc3aa9c63e9e93514c8491ec891e9c938ab411300889d0c486"
+  homepage "https://github.com/Ranoiaetep/apple-music-discord-rpc"
+  url "https://github.com/Ranoiaetep/apple-music-discord-rpc/archive/refs/tags/v0.0.1.tar.gz"
+#   sha256 "ab1d5207623c17bc3aa9c63e9e93514c8491ec891e9c938ab411300889d0c486"
   license "MIT"
-  head "https://github.com/NextFire/apple-music-discord-rpc.git", branch: "main"
+  head "https://github.com/Ranoiaetep/apple-music-discord-rpc.git", branch: "main"
 
   depends_on "deno"
 
